@@ -9,7 +9,7 @@ SRC_FILES = $(wildcard $(SRC_DIR)/*.cpp)
 OBJ_FILES = $(SRC_FILES:.cpp=.o)
 
 # Executable name
-TARGET = prog
+TARGET = play
 
 # Default target
 all: $(TARGET)
