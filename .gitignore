@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+/prog
+
+# Ignore object files
+*.o
+
+# Ignore build directories
+/build/
+/out/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
