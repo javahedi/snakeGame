@@ -1,5 +1,3 @@
-
-```markdown
 # Snake Game 🐍
 
 A classic Snake game implemented in C++ using the **SFML (Simple and Fast Multimedia Library)**. This project demonstrates object-oriented programming, game development, and multimedia integration.
@@ -137,4 +135,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy the game! 🚀
-```
