@@ -355,7 +355,7 @@ void Game::render() {
         {static_cast<float>(food.getPosition().x * CELL_SIZE),
         static_cast<float>(food.getPosition().y * CELL_SIZE)}
     );
-    foodSprite.setScale({foodScaleX * 1.5f, foodScaleY * 1.5f});
+    foodSprite.setScale({foodScaleX * 1.f, foodScaleY * 1.f});
     window.draw(foodSprite);
 
     // Draw game over screen
